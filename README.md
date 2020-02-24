@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+Esta extensão adiciona ao Sistema Eletrônico de Informações (SEI) a função de enumerar normas conforme regras de redação legislativa (legística) da Lei Complementar nº 95, de 26 de fevereiro de 1998 e Decreto nº 9.191, de 1º de novembro de 2017
+
 You can use the [editor on GitHub](https://github.com/pedrohsoaresadv/sei-legis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
