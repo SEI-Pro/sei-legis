@@ -14,20 +14,10 @@ Instale a extenção para o Google Chrome em:
 
 ## Como utilizar?
 
-Adicione no começo do parágrafo a referência desejada:
-```
-Títulos:       TIT.
-Capítulos:     CAP.
-Seções:        Sec.
-Artigos:       Art.
-Parágrafos:    §
-Incisos:       Inc.
-Alíneas:       Alin.
-```
-
  Substitua a enumeração tradicional...
 
 > CAPÍTULO II
+>
 > DA AUTORIZAÇÃO PARA OPERAR
 > 
 > Seção I
@@ -52,9 +42,22 @@ Pelas referências do **SEI Legis §!**
 >
 > `§` A autorização de que trata o caput é intransferível e terá vigência a partir da data da sua publicação no Diário Oficial da União - DOU.
 
-Clique no botão **§!** do editor de textos do SEI ![SEI Legis](/img/icon-cke.png) 
+Atualmente são enumeradas automaticamenete as seguintes referências:
+```
+Títulos:       TIT.
+Capítulos:     CAP.
+Seções:        Sec.
+Artigos:       Art.
+Parágrafos:    §
+Incisos:       Inc.
+Alíneas:       Alin.
+```
+
+Clique no botão **§!** do editor de textos do SEI
 
 ![Tela 1](/img/tela-1.01.gif) 
+
+Pronto! :sunglasses:
 
 ## Atualizando referências
 
