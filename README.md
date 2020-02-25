@@ -43,15 +43,6 @@ Pelas referências do **SEI Legis §!**
 > `§` A autorização de que trata o caput é intransferível e terá vigência a partir da data da sua publicação no Diário Oficial da União - DOU.
 
 Atualmente são enumeradas automaticamenete as seguintes referências:
-```
-Títulos:       TIT.
-Capítulos:     CAP.
-Seções:        Sec.
-Artigos:       Art.
-Parágrafos:    §
-Incisos:       Inc.
-Alíneas:       Alin.
-```
 
 | Tipo de Dispositivo  |  Referência  |
 | ------------------- | ------------------- |
@@ -75,7 +66,7 @@ Para adicionar novos dispositivos, adicionei a referência desejada e clique nov
 
 ![Tela 2](/img/tela-2.01.gif) 
 
-Remover dispositivos é igulamente simples. Apague o dispositivo e atualize as referências.
+Remover dispositivos é igulamente simples. Apague-o e atualize as referências.
 
 ![Tela 3](/img/tela-3.01.gif) 
 
