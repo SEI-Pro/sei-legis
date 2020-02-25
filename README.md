@@ -19,18 +19,16 @@ Incisos:       Inc.
 Alíneas:       Alin.
 ```
 
-> Substitua a enumeração tradicional...
+ Substitua a enumeração tradicional...
 
-```
-CAPÍTULO II
-DA AUTORIZAÇÃO PARA OPERAR
-
-Seção I
-Das disposições gerais
-
-Art. 9º Somente poderá prestar serviço público de transporte de passageiros e veículos na navegação interior de travessia, a EBN autorizada pela ANTAQ.
-Parágrafo único. A autorização de que trata o caput é intransferível e terá vigência a partir da data da sua publicação no Diário Oficial da União - DOU.
-```
+> CAPÍTULO II
+> DA AUTORIZAÇÃO PARA OPERAR
+> 
+> Seção I
+> Das disposições gerais
+> 
+> Art. 9º Somente poderá prestar serviço público de transporte de passageiros e veículos na navegação interior de travessia, a EBN autorizada pela ANTAQ.
+> Parágrafo único. A autorização de que trata o caput é intransferível e terá vigência a partir da data da sua publicação no Diário Oficial da União - DOU.
 
 Pelas referências do Sei Legis §!
 
