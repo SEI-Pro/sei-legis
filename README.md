@@ -21,13 +21,13 @@ Alíneas:       Alin.
 
  Substitua a enumeração tradicional...
 
->                          CAPÍTULO II
+> CAPÍTULO II
 >
->                   DA AUTORIZAÇÃO PARA OPERAR
+> DA AUTORIZAÇÃO PARA OPERAR
 > 
->                            Seção I
+> Seção I
 >
->                     Das disposições gerais
+> Das disposições gerais
 > 
 > Art. 9º Somente poderá prestar serviço público de transporte de passageiros e veículos na navegação interior de travessia, a EBN autorizada pela ANTAQ.
 >
@@ -35,13 +35,13 @@ Alíneas:       Alin.
 
 Pelas referências do Sei Legis §!
 
->                          `CAP.`
+> `CAP.`
 >
->                   DA AUTORIZAÇÃO PARA OPERAR
+> DA AUTORIZAÇÃO PARA OPERAR
 > 
->                            `Sec.`
+> `Sec.`
 >
->                     Das disposições gerais
+> Das disposições gerais
 > 
 > `Art.` Somente poderá prestar serviço público de transporte de passageiros e veículos na navegação interior de travessia, a EBN autorizada pela ANTAQ.
 >
