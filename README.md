@@ -61,7 +61,7 @@ Adicionei a referência desejada e clique novamente no botão do SEI Legis §!
 
 Remover dispositivos seguem a mesma lógica. Apague o texto e atualize as referências.
 
-![Tela 2](/img/tela-3.01.gif) 
+![Tela 3](/img/tela-3.01.gif) 
 
 ## Referências cruzadas
 
@@ -74,3 +74,4 @@ artigo 5º, § 2º, inciso II, "a":    #art15§2IIa
 artigo 7º, parágrafo único:         #art7§1             
 Capítulo II, Seção I:               #capituloIIsecaoI   
 ```
+![Tela 4](/img/tela-4.01.gif) 
