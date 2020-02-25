@@ -47,7 +47,4 @@ Pelas referências do SEI Legis §!
 >
 > `§` A autorização de que trata o caput é intransferível e terá vigência a partir da data da sua publicação no Diário Oficial da União - DOU.
 
-
-### Jekyll Themes
-
-
+![SEI Legis](/img/icon-ske.png)
