@@ -93,3 +93,7 @@ Referências não localizadas serão destacadas em vermelho.
 Corrija-as e atualize as referências novamente.
 
 ![Tela 5](/img/tela-5.01.gif) 
+
+## Deseja contribuir?
+
+Caso deseja reportar um erro ou solicitar um recurso, acesse [Issue](https://github.com/pedrohsoaresadv/sei-legis/issues) no [Projeto GitHub](https://github.com/pedrohsoaresadv/sei-legis/) e adicione sua requisição.
