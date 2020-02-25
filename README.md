@@ -21,7 +21,7 @@ Alíneas:       Alin.
 
  Substitua a enumeração tradicional...
 
-                  CAPÍTULO II
+                  CAPÍTULO II `CAP.`
 >
 > DA AUTORIZAÇÃO PARA OPERAR
 > 
