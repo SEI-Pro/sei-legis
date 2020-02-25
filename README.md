@@ -1,6 +1,6 @@
 # Bem vindo ao SEI Legis ![SEI Legis](/img/icon-32.png)
 
-SEI Legis adiciona ao Sistema Eletrônico de Informações (SEI) a função de enumerar normas conforme regras de redação legislativa (legística) da [Lei Complementar nº 95, de 26 de fevereiro de 1998](http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm) e do [Decreto nº 9.191, de 1º de novembro de 2017](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/D9191.htm).
+**SEI Legis §!** adiciona ao Sistema Eletrônico de Informações (SEI) a função de enumerar normas conforme regras de redação legislativa (legística) da [Lei Complementar nº 95, de 26 de fevereiro de 1998](http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm) e do [Decreto nº 9.191, de 1º de novembro de 2017](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/D9191.htm).
 
 A ferramenta enumera automaticamente títulos, capítulos, seções, artigos, parágrafos, incisos e alíneas de suas normas criadas a partir do editor de texto do SEI.
 
@@ -39,7 +39,7 @@ Alíneas:       Alin.
 >
 > Parágrafo único. A autorização de que trata o caput é intransferível e terá vigência a partir da data da sua publicação no Diário Oficial da União - DOU.
 
-Pelas referências do SEI Legis §!
+Pelas referências do **SEI Legis §!**
 
 > `CAP.`
 >
@@ -53,15 +53,13 @@ Pelas referências do SEI Legis §!
 >
 > `§` A autorização de que trata o caput é intransferível e terá vigência a partir da data da sua publicação no Diário Oficial da União - DOU.
 
-Clique no botão §! do editor de textos do SEI ![SEI Legis](/img/icon-cke.png) 
+Clique no botão **§!** do editor de textos do SEI ![SEI Legis](/img/icon-cke.png) 
 
 ![Tela 1](/img/tela-1.01.gif) 
 
 ## Atualizando referências
 
-Para adicionar novos dispositivos, repita o processo. 
-
-Adicionei a referência desejada e clique novamente no botão do SEI Legis §!
+Para adicionar novos dispositivos, adicionei a referência desejada e clique novamente no botão do **SEI Legis §!**
 
 ![Tela 2](/img/tela-2.01.gif) 
 
