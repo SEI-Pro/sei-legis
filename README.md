@@ -74,7 +74,7 @@ Citar e atualizar dispositivos da própria norma ficou mais fácil e prático.
 Em qualquer parte do texto utilize a referência do dispositivo precedida de `#`:
 
 ```
-artigo 8º, inciso II, "a":       #art8§2IIa
+artigo 8º, inciso II, "a":       #art8IIa
 artigo 7º, parágrafo único:      #art7§1
 Capítulo II, Seção I:            #capituloIIsecaoI
 artigo 15º, § 5º:                #art15§5
