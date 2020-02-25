@@ -4,7 +4,7 @@
 
 Criada a partir da necessidade de revisão e a consolidação dos atos normativos inferiores a decreto ([Decreto nº 10.139, de 28 de novembro de 2019](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10139.htm)), a ferramenta enumera automaticamente títulos, capítulos, seções, artigos, parágrafos, incisos e alíneas de suas normas criadas a partir do editor de texto do SEI.
 
-Adicionou um novo artigo bem no meio do documento? Não se preocupe, fazemos o trabalho chato pra você!
+Adicionou um novo artigo bem no meio do documento? Não se preocupe, fazemos a enumeração pra você!
 
 ## Como começar?
 
