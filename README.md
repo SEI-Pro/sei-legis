@@ -61,3 +61,14 @@ Adicionei a referência desejada e clique novamente no botão do SEI Legis §!
 Remover dispositivos seguem a mesma lógica. Apague o texto e atualize as referências.
 
 ![Tela 2](/img/tela-3.01.gif) 
+
+## Referências cruzadas
+
+Citar e atualizar dispositivos da própria norma ficou mais fácil e prático também.
+Em qualquer parte do texto utilize a referência completa do dispositivo precedida de `#`:
+
+```
+#art15§2IIa         artigo 5º, § 2º, inciso II, "a"
+#art7§1             artigo 7º, parágrafo único
+#capituloIIsecaoI   Capítulo II, Seção I
+```
