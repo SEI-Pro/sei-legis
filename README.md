@@ -19,7 +19,7 @@ Incisos:       Inc.
 Alíneas:       Alin.
 ```
 
-Substitua a enumeração tradicional...
+> Substitua a enumeração tradicional...
 
 ```
 CAPÍTULO II
