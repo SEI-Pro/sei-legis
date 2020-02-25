@@ -28,7 +28,6 @@ Alíneas:       Alin.
  Substitua a enumeração tradicional...
 
 > CAPÍTULO II
->
 > DA AUTORIZAÇÃO PARA OPERAR
 > 
 > Seção I
@@ -63,7 +62,7 @@ Para adicionar novos dispositivos, adicionei a referência desejada e clique nov
 
 ![Tela 2](/img/tela-2.01.gif) 
 
-Remover dispositivos segue a mesma lógica. Apague o texto e atualize as referências.
+Remover dispositivos é igulamente simples. Apague o texto e atualize as referências.
 
 ![Tela 3](/img/tela-3.01.gif) 
 
