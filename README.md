@@ -11,9 +11,13 @@ Adicionou um novo artigo bem no meio do documento? Não se preocupe, fazemos o t
 Adicione no começo do parágrafo a referência desejada:
 
 Títulos       `TIT.`
+
 Capítulos     __CAP.__
+
 Seções        Sec.
+
 Artigos       Art.
+
 Parágrafos    §
 Incisos       Inc.
 Alíneas       Alin.
