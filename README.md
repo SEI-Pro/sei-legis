@@ -79,17 +79,10 @@ Em qualquer parte do texto utilize a referência do dispositivo precedida de `#`
 | ------------------- | ------------------- |
 |  artigo 8º, inciso II, "a" |  `#art8IIa` |
 |  artigo 7º, parágrafo único |  `#art7§1` |
-|  aCapítulo II, Seção I: |  `#capituloIIsecaoI` |
-|  aartigo 15º, § 5º: |  `#art15§5` |
-|  aTítulo III, Capítulo I |  `#tituloIIcapituloI` |
+|  Capítulo II, Seção I: |  `#capituloIIsecaoI` |
+|  artigo 15º, § 5º: |  `#art15§5` |
+|  Título III, Capítulo I |  `#tituloIIcapituloI` |
 
-```
-artigo 8º, inciso II, "a":       #art8IIa
-artigo 7º, parágrafo único:      #art7§1
-Capítulo II, Seção I:            #capituloIIsecaoI
-artigo 15º, § 5º:                #art15§5
-Título III, Capítulo I           #tituloIIcapituloI
-```
 ![Tela 4](/img/tela-4.01.gif) 
 
 Referências não localizadas serão destacadas em vermelho.
