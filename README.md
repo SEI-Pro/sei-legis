@@ -70,8 +70,10 @@ Citar e atualizar dispositivos da própria norma ficou mais fácil e prático ta
 Em qualquer parte do texto utilize a referência completa do dispositivo precedida de `#`:
 
 ```
-artigo 5º, § 2º, inciso II, "a":    #art15§2IIa
-artigo 7º, parágrafo único:         #art7§1             
-Capítulo II, Seção I:               #capituloIIsecaoI   
+artigo 8º, inciso II, "a":       #art8§2IIa
+artigo 7º, parágrafo único:      #art7§1
+Capítulo II, Seção I:            #capituloIIsecaoI
+artigo 15º, § 5º:                #art15§5
+Título III, Capítulo I           #tituloIIcapituloI
 ```
 ![Tela 4](/img/tela-4.01.gif) 
