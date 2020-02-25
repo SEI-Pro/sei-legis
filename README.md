@@ -9,19 +9,15 @@ Adicionou um novo artigo bem no meio do documento? Não se preocupe, fazemos o t
 ### Como começar?
 
 Adicione no começo do parágrafo a referência desejada:
-
-Títulos       `TIT.`
-
-Capítulos     __CAP.__
-
-Seções        Sec.
-
-Artigos       Art.
-
-Parágrafos    §
-Incisos       Inc.
-Alíneas       Alin.
-
+```
+Títulos:       TIT.
+Capítulos:     CAP.
+Seções:        Sec.
+Artigos:       Art.
+Parágrafos:    §
+Incisos:       Inc.
+Alíneas:       Alin.
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
