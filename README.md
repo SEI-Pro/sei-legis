@@ -92,7 +92,7 @@ Referências não localizadas serão destacadas em vermelho.
 
 Corrija-as e atualize as referências novamente.
 
-![Tela 5](/img/tela-5.01.gif) 
+> ![Tela 5](/img/tela-5.01.gif) 
 
 ## Deseja contribuir?
 
