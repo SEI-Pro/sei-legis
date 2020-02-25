@@ -53,6 +53,16 @@ Incisos:       Inc.
 Alíneas:       Alin.
 ```
 
+| Tipo de Dispositivo  |  Referência  |
+| ------------------- | ------------------- |
+|  Títulos |  `TIT.` |
+|  Capítulos |  `CAP.` |
+|  Seções |  `Sec` |
+|  Artigos |  `Art.` |
+|  Parágrafos |  `§` |
+|  Incisos |  `Inc.` |
+|  Alíneas |  `Alin` |
+
 Clique no botão **§!** do editor de textos do SEI
 
 ![Tela 1](/img/tela-1.01.gif) 
@@ -65,7 +75,7 @@ Para adicionar novos dispositivos, adicionei a referência desejada e clique nov
 
 ![Tela 2](/img/tela-2.01.gif) 
 
-Remover dispositivos é igulamente simples. Apague o texto e atualize as referências.
+Remover dispositivos é igulamente simples. Apague o dispositivo e atualize as referências.
 
 ![Tela 3](/img/tela-3.01.gif) 
 
@@ -82,6 +92,8 @@ Em qualquer parte do texto utilize a referência do dispositivo precedida de `#`
 |  Capítulo II, Seção I: |  `#capituloIIsecaoI` |
 |  artigo 15º, § 5º: |  `#art15§5` |
 |  Título III, Capítulo I |  `#tituloIIcapituloI` |
+
+Não se preocupe em inserir novos dispositivos, as citações no texto também são atualizadas automaticamente.
 
 ![Tela 4](/img/tela-4.01.gif) 
 
