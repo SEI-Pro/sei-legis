@@ -22,9 +22,11 @@ Alíneas:       Alin.
  Substitua a enumeração tradicional...
 
 > CAPÍTULO II
+>
 > DA AUTORIZAÇÃO PARA OPERAR
 > 
 > Seção I
+>
 > Das disposições gerais
 > 
 > Art. 9º Somente poderá prestar serviço público de transporte de passageiros e veículos na navegação interior de travessia, a EBN autorizada pela ANTAQ.
