@@ -49,4 +49,4 @@ Pelas referências do SEI Legis §!
 
 Clique no botão §! do editor de textos do SEI ![SEI Legis](/img/icon-cke.png) 
 
-![Tela 1](/img/tela1.gif) 
+![Tela 1](/img/tela_1.gif) 
