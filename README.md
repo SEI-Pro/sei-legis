@@ -53,7 +53,8 @@ Clique no botão §! do editor de textos do SEI ![SEI Legis](/img/icon-cke.png)
 
 ## Atualizando referências
 
-Para adicionar novos dispositivos, repita o processo. Adicionei a referência desejada e clique novamente no botão do SEI Legis §!
+Para adicionar novos dispositivos, repita o processo. 
+Adicionei a referência desejada e clique novamente no botão do SEI Legis §!
 
 ![Tela 2](/img/tela-2.01.gif) 
 
