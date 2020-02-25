@@ -11,7 +11,7 @@ Adicionou um novo artigo bem no meio do documento? Não se preocupe, fazemos o t
 Adicione no começo do parágrafo a referência desejada:
 
 ```markdown
-Títulos       **TIT.**
+Títulos       __TIT.__
 Capítulos     `CAP.`
 Seções        `Sec.`
 Artigos       `Art.`
