@@ -4,7 +4,7 @@ Esta extensão adiciona ao Sistema Eletrônico de Informações (SEI) a função
 
 A ferramenta enumera automaticamente títulos, capítulos, seções, artigos, parágrafos, incisos e alíneas de suas normas criadas a partir do editor de texto do SEI.
 
-Adicionou um novo artigo bem no meio do documento? Não se preocupe, fazemos o trabalho pesado (e chato) pra você!
+Adicionou um novo artigo bem no meio do documento? Não se preocupe, fazemos o trabalho chato pra você!
 
 ### Como começar?
 
@@ -22,7 +22,7 @@ Alíneas:       Alin.
  Substitua a enumeração tradicional...
 
 > CAPÍTULO II
->
+
 > DA AUTORIZAÇÃO PARA OPERAR
 > 
 > Seção I
@@ -33,7 +33,7 @@ Alíneas:       Alin.
 >
 > Parágrafo único. A autorização de que trata o caput é intransferível e terá vigência a partir da data da sua publicação no Diário Oficial da União - DOU.
 
-Pelas referências do Sei Legis §!
+Pelas referências do SEI Legis §!
 
 > `CAP.`
 >
