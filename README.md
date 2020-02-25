@@ -66,7 +66,7 @@ Para adicionar novos dispositivos, adicionei a referência desejada e clique nov
 
 ![Tela 2](/img/tela-2.01.gif) 
 
-Remover dispositivos é igulamente simples. Apague-o e atualize as referências.
+Remover dispositivos é igulamente simples.
 
 ![Tela 3](/img/tela-3.01.gif) 
 
