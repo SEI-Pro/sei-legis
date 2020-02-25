@@ -2,9 +2,11 @@
 
 Esta extensão adiciona ao Sistema Eletrônico de Informações (SEI) a função de enumerar normas conforme regras de redação legislativa (legística) da [Lei Complementar nº 95, de 26 de fevereiro de 1998](http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm) e [Decreto nº 9.191, de 1º de novembro de 2017](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/D9191.htm).
 
+A ferramenta enumera automaticamente títulos, capítulos, seções, artigos, parágrafos, incisos e alíneas de suas normas criadas a partir do editor de texto do SEI.
 
+Adicionou um novo artigo bem no meio do documento? Não se preocupe, fazemos o trabalho pesado (e chato) pra você!
 
-### Markdown
+### Como começar?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
