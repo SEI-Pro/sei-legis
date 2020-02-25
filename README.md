@@ -63,15 +63,15 @@ Para adicionar novos dispositivos, adicionei a referência desejada e clique nov
 
 ![Tela 2](/img/tela-2.01.gif) 
 
-Remover dispositivos seguem a mesma lógica. Apague o texto e atualize as referências.
+Remover dispositivos segue a mesma lógica. Apague o texto e atualize as referências.
 
 ![Tela 3](/img/tela-3.01.gif) 
 
 ## Referências cruzadas
 
-Citar e atualizar dispositivos da própria norma ficou mais fácil e prático também.
+Citar e atualizar dispositivos da própria norma ficou mais fácil e prático.
 
-Em qualquer parte do texto utilize a referência completa do dispositivo precedida de `#`:
+Em qualquer parte do texto utilize a referência do dispositivo precedida de `#`:
 
 ```
 artigo 8º, inciso II, "a":       #art8§2IIa
