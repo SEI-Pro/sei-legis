@@ -54,6 +54,7 @@ Clique no botão §! do editor de textos do SEI ![SEI Legis](/img/icon-cke.png)
 ## Atualizando referências
 
 Para adicionar novos dispositivos, repita o processo. 
+
 Adicionei a referência desejada e clique novamente no botão do SEI Legis §!
 
 ![Tela 2](/img/tela-2.01.gif) 
@@ -65,10 +66,11 @@ Remover dispositivos seguem a mesma lógica. Apague o texto e atualize as refer�
 ## Referências cruzadas
 
 Citar e atualizar dispositivos da própria norma ficou mais fácil e prático também.
+
 Em qualquer parte do texto utilize a referência completa do dispositivo precedida de `#`:
 
 ```
-#art15§2IIa         artigo 5º, § 2º, inciso II, "a"
-#art7§1             artigo 7º, parágrafo único
-#capituloIIsecaoI   Capítulo II, Seção I
+artigo 5º, § 2º, inciso II, "a":    #art15§2IIa
+artigo 7º, parágrafo único:         #art7§1             
+Capítulo II, Seção I:               #capituloIIsecaoI   
 ```
