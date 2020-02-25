@@ -97,3 +97,5 @@ Corrija-as e atualize as referências novamente.
 ## Deseja contribuir?
 
 Caso deseja reportar um erro ou solicitar um recurso, acesse [Issue](https://github.com/pedrohsoaresadv/sei-legis/issues) no [Projeto GitHub](https://github.com/pedrohsoaresadv/sei-legis/) e adicione sua requisição.
+
+Ou envie um e-mail para `pedrohsoares.adv (a) gmail.com`
