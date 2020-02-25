@@ -81,3 +81,9 @@ artigo 15º, § 5º:                #art15§5
 Título III, Capítulo I           #tituloIIcapituloI
 ```
 ![Tela 4](/img/tela-4.01.gif) 
+
+Referências não localizadas serão destacadas em vermelho.
+
+Corrija-as em atualize as referências novamente.
+
+![Tela 5](/img/tela-5.01.gif) 
