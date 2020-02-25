@@ -1,8 +1,8 @@
 # Bem vindo ao SEI Legis ![SEI Legis](/img/icon-32.png)
 
-**SEI Legis §!** adiciona ao Sistema Eletrônico de Informações (SEI) a função de enumerar normas conforme regras de redação legislativa (legística) da [Lei Complementar nº 95, de 26 de fevereiro de 1998](http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm) e do [Decreto nº 9.191, de 1º de novembro de 2017](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/D9191.htm).
+**SEI Legis §!** adiciona ao [Sistema Eletrônico de Informações (SEI)](https://softwarepublico.gov.br/social/sei) a função de enumerar normas conforme regras de redação legislativa (legística) da [Lei Complementar nº 95, de 26 de fevereiro de 1998](http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm) e do [Decreto nº 9.191, de 1º de novembro de 2017](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/D9191.htm).
 
-A ferramenta enumera automaticamente títulos, capítulos, seções, artigos, parágrafos, incisos e alíneas de suas normas criadas a partir do editor de texto do SEI.
+Criada a partir da necessidade de revisão e a consolidação dos atos normativos inferiores a decreto ([Decreto nº 10.139, de 28 de novembro de 2019](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D10139.htm)), a ferramenta enumera automaticamente títulos, capítulos, seções, artigos, parágrafos, incisos e alíneas de suas normas criadas a partir do editor de texto do SEI.
 
 Adicionou um novo artigo bem no meio do documento? Não se preocupe, fazemos o trabalho chato pra você!
 
@@ -84,6 +84,6 @@ Título III, Capítulo I           #tituloIIcapituloI
 
 Referências não localizadas serão destacadas em vermelho.
 
-Corrija-as em atualize as referências novamente.
+Corrija-as e atualize as referências novamente.
 
 ![Tela 5](/img/tela-5.01.gif) 
