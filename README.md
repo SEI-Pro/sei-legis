@@ -48,11 +48,11 @@ Atualmente são enumeradas automaticamenete as seguintes referências:
 | ------------------- | ------------------- |
 |  Títulos |  `TIT.` |
 |  Capítulos |  `CAP.` |
-|  Seções |  `Sec` |
+|  Seções |  `Sec.` |
 |  Artigos |  `Art.` |
 |  Parágrafos |  `§` |
 |  Incisos |  `Inc.` |
-|  Alíneas |  `Alin` |
+|  Alíneas |  `Alin.` |
 
 Clique no botão **§!** do editor de textos do SEI
 
