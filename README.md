@@ -80,8 +80,8 @@ Em qualquer parte do texto utilize a referência do dispositivo precedida de `#`
 | ------------------- | ------------------- |
 |  artigo 8º, inciso II, "a" |  `#art8IIa` |
 |  artigo 7º, parágrafo único |  `#art7§1` |
-|  Capítulo II, Seção I: |  `#capituloIIsecaoI` |
-|  artigo 15º, § 5º: |  `#art15§5` |
+|  Capítulo II, Seção I |  `#capituloIIsecaoI` |
+|  artigo 15º, § 5º |  `#art15§5` |
 |  Título III, Capítulo I |  `#tituloIIcapituloI` |
 
 Não se preocupe em inserir novos dispositivos, as citações no texto também são atualizadas automaticamente.
