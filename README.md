@@ -14,7 +14,7 @@ Instale a extenção para o Google Chrome em:
 
 ## Como utilizar?
 
- Substitua a enumeração tradicional...
+No editor de textos do SEI, substitua a enumeração tradicional...
 
 > CAPÍTULO II
 >
