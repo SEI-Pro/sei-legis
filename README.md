@@ -18,7 +18,7 @@ No editor de textos do SEI, ative a enumeração dinâmica do **SEI Legis** no b
 
 ![Tela 1](/img/tela-1.02.gif) 
 
-As enumurações digitadas manualmente serão automaticamente convertidas em referências dinâmicas.
+As enumurações digitadas manualmente serão convertidas em referências dinâmicas.
 
 > `CAPÍTULO II`
 >
@@ -36,7 +36,7 @@ Para digitar nos dispositivos utilize o código de referência desejado:
 
 ![Tela 2](/img/tela-2.02.gif) 
 
-Atualmente são enumeradas automaticamenete as seguintes referências:
+Atualmente são suportadas as seguintes referências dinâmicas:
 
 | Tipo de Dispositivo  |  Referência  |
 | ------------------- | ------------------- |
@@ -55,7 +55,7 @@ As referências dinâmicas são atualizadas sempre que você digitar `ENTER ↵ 
 
 Alertas relevantes poderão aparecer no começo dos dispositivos.
 
-Passe o mouse sobre elas para verificar as dicas de adequação.
+Passe o mouse sobre eles para verificar as dicas de adequação.
 
 ![Tela 3](/img/tela-3.02.gif) 
 
