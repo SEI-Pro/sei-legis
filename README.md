@@ -63,11 +63,13 @@ Passe o mouse sobre eles para verificar as dicas de adequação.
 
 ## Referências cruzadas
 
-Citar e atualizar dispositivos da própria norma ficou mais fácil e prático.
+Citar dispositivos da própria norma ficou mais fácil e prático.
+
+Em qualquer parte do texto utilize a referência do dispositivo precedida de `#`:
 
 ![Tela 4](/img/tela-4.02.gif) 
 
-Em qualquer parte do texto utilize a referência do dispositivo precedida de `#`:
+As referências cruzadas utilizam o seguinte padrão:
 
 | Exemplo  |  Referência cruzada  |
 | ------------------- | ------------------- |
@@ -83,9 +85,11 @@ Não se preocupe em inserir novos dispositivos, as citações no texto também s
 
 > No exemplo, a referência `art. 24, inciso II, alínea "a"` foi atualizada para `art. 25, inciso II, alínea "a"`
 
+### Referências não localizadas
+
 Referências não localizadas serão destacadas em vermelho.
 
-Após corrigi-las, as referências serão atualizadas ao digitar `ENTER ↵ `
+Após corrigi-las, digite `ENTER ↵ ` para o **SEI Legis §!** encontrar as novas referências. 
 
 ![Tela 6](/img/tela-6.02.gif) 
 
