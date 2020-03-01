@@ -32,15 +32,13 @@ As enumurações digitadas manualmente serão convertidas em referências dinâm
 >
 > `Parágrafo único.` A autorização de que trata o caput é intransferível e terá vigência a partir da data da sua publicação no Diário Oficial da União - DOU.
 
-Para digitar nos dispositivos utilize o código de referência desejado:
+## Novos dispositivos
 
-![Tela 2](/img/tela-2.02.gif) 
-
-## Referências dinâmicas
+Para criar nos dispositivos, inicie a nova linha com o **código de referência** correspondente:
 
 Atualmente são suportadas as seguintes referências dinâmicas:
 
-| Tipo de Dispositivo  |  Referência  |
+| Tipo de Dispositivo  |  Código de Referência  |
 | ------------------- | ------------------- |
 |  Títulos |  `TIT.` |
 |  Capítulos |  `CAP.` |
@@ -50,6 +48,8 @@ Atualmente são suportadas as seguintes referências dinâmicas:
 |  Incisos |  `Inc.` |
 |  Alíneas |  `Alin.` |
 |  Anexos |  `ANEXO.` |
+
+![Tela 2](/img/tela-2.02.gif) 
 
 As referências dinâmicas são atualizadas sempre que você digitar `ENTER ↵ `
 
