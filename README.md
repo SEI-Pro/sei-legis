@@ -85,7 +85,7 @@ Não se preocupe em inserir novos dispositivos, as citações no texto também s
 
 ![Tela 5](/img/tela-5.02.gif) 
 
-> No exemplo, a referência `art. 24, inciso II, alínea "a"` foi atualizada para `art. 25, inciso II, alínea "a"`
+> No exemplo, a referência `art. 23, inciso II, alínea "a"` foi atualizada para `art. 24, inciso II, alínea "a"`
 
 ### Referências não localizadas
 
