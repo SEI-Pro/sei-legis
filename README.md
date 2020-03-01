@@ -49,17 +49,15 @@ Atualmente são enumeradas automaticamenete as seguintes referências:
 |  Alíneas |  `Alin.` |
 |  Anexos |  `ANEXO.` |
 
-As referências dinâmicas são atualizadas sempre que você inserir uma nova linha `ENTER ↵ `
+As referências dinâmicas são atualizadas sempre que você digitar `ENTER ↵ `
 
-## Atualizando referências
+## Alertas
 
-Para adicionar novos dispositivos, adicionei a referência desejada e clique novamente no botão do **SEI Legis §!**
+Alertas relevantes poderão aparecer no começo dos dispositivos.
 
-![Tela 2](/img/tela-2.01.gif) 
+Passe o mouse sobre elas para verificar as dicas de adequação.
 
-Remover dispositivos é igulamente simples.
-
-![Tela 3](/img/tela-3.01.gif) 
+![Tela 3](/img/tela-3.02.gif) 
 
 ## Referências cruzadas
 
