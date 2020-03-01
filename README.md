@@ -16,6 +16,8 @@ Instale a extenção para o Google Chrome em:
 
 No editor de textos do SEI, ative a enumeração dinâmica do **SEI Legis** no botão **§!**
 
+![Tela 1](/img/tela-1.02.gif) 
+
 As enumurações digitadas manualmente serão automaticamente convertidas em referências dinâmicas.
 
 > `CAPÍTULO II`
