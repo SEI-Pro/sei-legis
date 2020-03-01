@@ -34,6 +34,8 @@ As enumurações digitadas manualmente serão automaticamente convertidas em ref
 
 Para digitar nos dispositivos utilize o código de referência desejado:
 
+![Tela 2](/img/tela-2.02.gif) 
+
 Atualmente são enumeradas automaticamenete as seguintes referências:
 
 | Tipo de Dispositivo  |  Referência  |
@@ -47,11 +49,7 @@ Atualmente são enumeradas automaticamenete as seguintes referências:
 |  Alíneas |  `Alin.` |
 |  Anexos |  `ANEXO.` |
 
-Clique no botão **§!** do editor de textos do SEI
-
-![Tela 1](/img/tela-1.01.gif) 
-
-Pronto! :sunglasses:
+As referências dinâmicas são atualizadas sempre que você inserir uma nova linha `ENTER ↵ `
 
 ## Atualizando referências
 
