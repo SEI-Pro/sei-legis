@@ -83,9 +83,9 @@ Não se preocupe em inserir novos dispositivos, as citações no texto também s
 
 Referências não localizadas serão destacadas em vermelho.
 
-Após corrigi-las, as referências serão atualizadas ao digitar `ENTER ↵ `.
+Após corrigi-las, as referências serão atualizadas ao digitar `ENTER ↵ `
 
-> ![Tela 6](/img/tela-6.02.gif) 
+![Tela 6](/img/tela-6.02.gif) 
 
 ## Deseja contribuir?
 
