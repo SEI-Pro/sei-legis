@@ -34,11 +34,11 @@ As enumurações digitadas manualmente serão convertidas em referências dinâm
 
 ## Novos dispositivos
 
-Para criar nos dispositivos, inicie a nova linha com o **código de referência** correspondente:
+Para criar nos dispositivos, inicie seu texto com a **referência dinâmica** correspondente:
 
 Atualmente são suportadas as seguintes referências dinâmicas:
 
-| Tipo de Dispositivo  |  Código de Referência  |
+| Tipo de Dispositivo  |  Referências Dinâmicas  |
 | ------------------- | ------------------- |
 |  Títulos |  `TIT.` |
 |  Capítulos |  `CAP.` |
@@ -63,7 +63,7 @@ Passe o mouse sobre eles para verificar as dicas de adequação.
 
 ## Referências cruzadas
 
-Citar dispositivos da própria norma ficou mais fácil e prático.
+Citar dispositivos da própria norma ficou fácil e prático.
 
 Em qualquer parte do texto utilize a referência do dispositivo precedida de `#`:
 
