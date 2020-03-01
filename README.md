@@ -63,6 +63,8 @@ Passe o mouse sobre eles para verificar as dicas de adequação.
 
 Citar e atualizar dispositivos da própria norma ficou mais fácil e prático.
 
+![Tela 4](/img/tela-4.02.gif) 
+
 Em qualquer parte do texto utilize a referência do dispositivo precedida de `#`:
 
 | Exemplo  |  Referência cruzada  |
@@ -75,13 +77,14 @@ Em qualquer parte do texto utilize a referência do dispositivo precedida de `#`
 
 Não se preocupe em inserir novos dispositivos, as citações no texto também são atualizadas automaticamente.
 
-![Tela 4](/img/tela-4.01.gif) 
+![Tela 5](/img/tela-5.02.gif) 
+> Ao inserir novo artigo, a referência `art. 24, inciso II, alínea "a"` foi atualizada para `art. 25, inciso II, alínea "a"`
 
 Referências não localizadas serão destacadas em vermelho.
 
-Corrija-as e atualize as referências novamente.
+Após corrigi-las, as referências serão atualizadas ao digitar `ENTER ↵ `.
 
-> ![Tela 5](/img/tela-5.01.gif) 
+> ![Tela 6](/img/tela-6.02.gif) 
 
 ## Deseja contribuir?
 
