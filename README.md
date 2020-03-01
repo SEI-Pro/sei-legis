@@ -36,6 +36,8 @@ Para digitar nos dispositivos utilize o código de referência desejado:
 
 ![Tela 2](/img/tela-2.02.gif) 
 
+## Referências dinâmicas
+
 Atualmente são suportadas as seguintes referências dinâmicas:
 
 | Tipo de Dispositivo  |  Referência  |
