@@ -49,7 +49,7 @@ Atualmente são suportadas as seguintes referências dinâmicas:
 |  Incisos |  `Inc.` |  `I -`, `II -`, `III -`, `IV -` ... |
 |  Alíneas |  `Alin.` |  `a)`, `b)`, `c)`, `d)` ... |
 
-> Ao utilizar `ANEXO.`, todas as demais referéncias reiniciarão sua contagem.
+> Ao utilizar `ANEXO.`, todas as demais referências reiniciarão sua contagem.
 
 ![Tela 2](/img/tela-2.02.gif) 
 
