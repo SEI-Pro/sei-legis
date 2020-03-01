@@ -40,6 +40,7 @@ Atualmente são suportadas as seguintes referências dinâmicas:
 
 | Tipo de Dispositivo  |  Referências Dinâmicas  |
 | ------------------- | ------------------- |
+|  Anexos |  `ANEXO.` |
 |  Títulos |  `TIT.` |
 |  Capítulos |  `CAP.` |
 |  Seções |  `Sec.` |
@@ -47,7 +48,8 @@ Atualmente são suportadas as seguintes referências dinâmicas:
 |  Parágrafos |  `§` |
 |  Incisos |  `Inc.` |
 |  Alíneas |  `Alin.` |
-|  Anexos |  `ANEXO.` |
+
+> Ao utilizar `ANEXO.`, todas as demais referéncias reiniciarão sua contagem.
 
 ![Tela 2](/img/tela-2.02.gif) 
 
@@ -97,4 +99,4 @@ Após corrigi-las, digite `ENTER ↵ ` para o **SEI Legis §!** encontrar as nov
 
 Caso deseja reportar um erro ou solicitar um recurso, acesse [Issue](https://github.com/pedrohsoaresadv/sei-legis/issues) no [Projeto GitHub](https://github.com/pedrohsoaresadv/sei-legis/) e adicione sua requisição.
 
-Ou envie um e-mail para `pedrohsoares.adv (a) gmail.com`
+Ou envie um e-mail para [pedrohsoares.adv@gmail.com](mailto:pedrohsoares.adv@gmail.com)
