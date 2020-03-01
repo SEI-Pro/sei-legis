@@ -38,16 +38,16 @@ Para criar nos dispositivos, inicie seu texto com a **referência dinâmica** co
 
 Atualmente são suportadas as seguintes referências dinâmicas:
 
-| Tipo de Dispositivo  |  Referências Dinâmicas  |
+| Tipo de Dispositivo  |  Referências Dinâmicas  |  Enumeração Gerada  |
 | ------------------- | ------------------- |
-|  Anexos |  `ANEXO.` |
-|  Títulos |  `TIT.` |
-|  Capítulos |  `CAP.` |
-|  Seções |  `Sec.` |
-|  Artigos |  `Art.` |
-|  Parágrafos |  `§` |
-|  Incisos |  `Inc.` |
-|  Alíneas |  `Alin.` |
+|  Anexos |  `ANEXO.` |  `ANEXO`, `ANEXO A`, `ANEXO B`, `ANEXO C` ... |
+|  Títulos |  `TIT.` |  `TÍTULO I`, `TÍTULO II`, `TÍTULO III`, `TÍTULO IV` ... |
+|  Capítulos |  `CAP.` |  `CAPÍTULO I`, `CAPÍTULO II`, `CAPÍTULO III`, `CAPÍTULO IV` ... |
+|  Seções |  `Sec.` |  `Seção I`, `Seção II`, `Seção III`, `Seção IV` ... |
+|  Artigos |  `Art.` |  `Art. 1º`, `Art. 2º`, `Art. 3º`, `Art. 4º` ... |
+|  Parágrafos |  `§` |  `Parágrafo único.` ou `§ 1º`, `§ 2º`, `§ 3º` ... |
+|  Incisos |  `Inc.` |  `I -`, `II -`, `III -`, `IV -` ... |
+|  Alíneas |  `Alin.` |  `a)`, `b)`, `c)`, `d)` ... |
 
 > Ao utilizar `ANEXO.`, todas as demais referéncias reiniciarão sua contagem.
 
