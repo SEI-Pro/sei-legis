@@ -78,7 +78,9 @@ Em qualquer parte do texto utilize a referência do dispositivo precedida de `#`
 Não se preocupe em inserir novos dispositivos, as citações no texto também são atualizadas automaticamente.
 
 ![Tela 5](/img/tela-5.02.gif) 
-> Ao inserir novo artigo, a referência `art. 24, inciso II, alínea "a"` foi atualizada para `art. 25, inciso II, alínea "a"`
+
+> Ao inserir novo artigo, a referência `art. 24, inciso II, alínea "a"` 
+> foi atualizada para `art. 25, inciso II, alínea "a"`
 
 Referências não localizadas serão destacadas em vermelho.
 
