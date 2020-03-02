@@ -61,7 +61,11 @@ Alertas relevantes poderão aparecer no começo dos dispositivos.
 
 Passe o mouse sobre eles para verificar as dicas de adequação.
 
-![Tela 3](/img/tela-3.02.gif) 
+![Tela 3](/img/tela-3.03.gif) 
+
+Clique duas vezes sobre o alerta para não mostra-lo novamente.
+
+![Tela 3a](/img/tela-3.03a.gif) 
 
 ## Referências cruzadas
 
