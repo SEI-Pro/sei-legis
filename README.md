@@ -63,7 +63,7 @@ Passe o mouse sobre eles para verificar as dicas de adequação.
 
 ![Tela 3](/img/tela-3.03.gif) 
 
-Clique duas vezes sobre o alerta para não mostra-lo novamente.
+Clique duas vezes sobre o alerta para ignorá-lo.
 
 ![Tela 3a](/img/tela-3.03a.gif) 
 
