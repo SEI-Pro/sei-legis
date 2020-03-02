@@ -8,7 +8,7 @@ Adicionou um novo artigo bem no meio do documento? Não se preocupe, fazemos a e
 
 ## Como começar?
 
-Instale a extenção para o Google Chrome em:
+Instale a extensão para o Google Chrome em:
 
 [https://chrome.google.com/webstore/detail/sei-legis/gmepnnlhjedfmkncmocpljoimbmkblgj](https://chrome.google.com/webstore/detail/sei-legis/gmepnnlhjedfmkncmocpljoimbmkblgj)
 
