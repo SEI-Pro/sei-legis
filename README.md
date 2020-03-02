@@ -14,7 +14,7 @@ Instale a extenção para o Google Chrome em:
 
 ## Como utilizar?
 
-No editor de textos do SEI, ative a enumeração automática do **SEI Legis** no botão **§!**
+No editor de textos do SEI, ative a enumeração automática do **SEI Legis §!** no botão ![icone](/img/icon-cke.png) 
 
 ![Tela 1](/img/tela-1.02.gif) 
 
