@@ -103,9 +103,7 @@ Após corrigi-las, digite `ENTER ↵ ` para o **SEI Legis §!** encontrar as nov
 
 Citar legislações federais ficou ainda mais fácil.
 
-Em qualquer parte do texto digite o número da norma precedida de `@`
-
-Atualmente estão disponíveis as seguintes legislações
+Atualmente estão disponíveis as seguintes legislações:
 
 |  Legislação Federal  |
 | ------------------- | 
@@ -117,6 +115,18 @@ Atualmente estão disponíveis as seguintes legislações
 |  [Decretos-Leis](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/decretos-leis) |
 |  [Códigos](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/codigos-1) |
 |  [Estatutos](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/estatutos) |
+
+Em qualquer parte do texto digite o número da norma precedida de `@`
+
+| Referência externa  |  Exemplo  |
+| ------------------- | ------------------- |
+|  `@CF` |  [Constituição Federal]() |
+|  `@LC123` |  [Lei Complementar nº 123, de 14 de dezembro de 2006](http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp123.htm) |
+|  `@Dec4552` |  [Decreto nº 4.552, de 27 de dezembro de 2002](http://www.planalto.gov.br/ccivil_03/decreto/2002/D4552.htm) |
+|  `@Lei13455` |  [Lei nº 13.445, de 24 de maio de 2017](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/L13445.htm) |
+|  `@CC` |  [Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil)](http://www.planalto.gov.br/ccivil_03/leis/2002/L10406.htm) | 
+|  `@MP881` |  [Medida Provisória nº 881, de 30 de abril de 2019](http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Mpv/mpv881.htm) |
+|  `@ECA` |  [Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente)](http://www.planalto.gov.br/ccivil_03/Leis/L8069.htm) |
 
 ## Deseja contribuir?
 
