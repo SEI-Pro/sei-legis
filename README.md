@@ -40,7 +40,7 @@ Atualmente são suportadas as seguintes referências dinâmicas:
 
 | Tipo de Dispositivo  |  Referências Dinâmicas  |  Enumeração Gerada  |
 | ------------------- | ------------------- | ------------------- |
-|  Anexos |  `ANEXO.` |  `ANEXO`, `ANEXO A`, `ANEXO B`, `ANEXO C` ... |
+|  Anexos |  `ANEXO.` |  `ANEXO I` ou `ANEXO ÚNICO`, `ANEXO II`, `ANEXO III`, `ANEXO IV` ... |
 |  Títulos |  `TIT.` |  `TÍTULO I`, `TÍTULO II`, `TÍTULO III`, `TÍTULO IV` ... |
 |  Capítulos |  `CAP.` |  `CAPÍTULO I`, `CAPÍTULO II`, `CAPÍTULO III`, `CAPÍTULO IV` ... |
 |  Seções |  `Sec.` |  `Seção I`, `Seção II`, `Seção III`, `Seção IV` ... |
