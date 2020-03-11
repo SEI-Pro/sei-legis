@@ -138,6 +138,8 @@ Algumas normas jurídicas de grande relevância são conhecidas pelo seu nome pr
 
 Estão disponíveis as seguintes  referências nominais:
 
+| Referência nominal  |  Exemplo  |
+| ------------------- | ------------------- |
 |  `@CF` |  [Constituição Federal](http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) |
 |  `@CC` |  [Código Civil](http://www.planalto.gov.br/ccivil_03/leis/2002/L10406.htm) |
 |  `@CCm` |  [Código Comercial](http://www.planalto.gov.br/ccivil_03/Leis/LIM/LIM556.htm) |
