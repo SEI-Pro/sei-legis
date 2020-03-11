@@ -18,7 +18,7 @@ No editor de textos do SEI, ative a enumeração automática do **SEI Legis §!*
 
 ![Tela 1](/img/tela-1.02.gif) 
 
-As enumurações digitadas manualmente serão convertidas em referências dinâmicas.
+As enumerações digitadas manualmente serão convertidas em referências dinâmicas.
 
 > `CAPÍTULO II`
 >
