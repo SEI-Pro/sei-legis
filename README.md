@@ -115,8 +115,6 @@ Em qualquer parte do texto digite o número da norma precedida de `@`
 |  `@MP881` |  [Medida Provisória nº 881, de 30 de abril de 2019](http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Mpv/mpv881.htm) |
 |  `@ECA` |  [Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente)](http://www.planalto.gov.br/ccivil_03/Leis/L8069.htm) |
 
-Após corrigi-las, digite `ENTER ↵ ` para o **SEI Legis §!** encontrar as referências externas. 
-
 As citações acompanham o hiperlink para a norma publicada no site do Planalto.
 
 Atualmente estão disponíveis as seguintes legislações:
