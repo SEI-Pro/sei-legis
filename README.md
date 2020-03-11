@@ -99,6 +99,19 @@ Após corrigi-las, digite `ENTER ↵ ` para o **SEI Legis §!** encontrar as nov
 
 ![Tela 6](/img/tela-6.02.gif) 
 
+### Referências externas
+
+Citar legislações federais ficou ainda mais fácil.
+
+Em qualquer parte do texto digite o número da norma precedida de `@`
+
+Atualmente estão disponíveis as seguintes legislações
+
+|  [Constituição Federal](http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm) |  [Medidas Provisórias](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/medidas-provisorias) |
+|  [Leis Ordinárias](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/leis-ordinarias) |  [Decretos](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/decretos1) |
+|  [Leis Complementares](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/leis-complementares-1) |  [Decretos-Leis](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/decretos-leis) |
+|  [Códigos](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/codigos-1) |  [Estatutos](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/estatutos) |
+
 ## Deseja contribuir?
 
 Caso deseja reportar um erro ou solicitar um recurso, acesse [Issue](https://github.com/pedrohsoaresadv/sei-legis/issues) no [Projeto GitHub](https://github.com/pedrohsoaresadv/sei-legis/) e adicione sua requisição.
