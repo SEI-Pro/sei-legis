@@ -134,9 +134,11 @@ As citações acompanham o hiperlink para a norma publicada no site do Planalto.
 
 ### Referências externas nominais
 
-Algumas normas jurídicas de grande relevância são conhecidas pelo seu nome próprio, como o Código Civil (Lei 10.406, de 2002)
+Algumas normas jurídicas de grande relevância são conhecidas pelo seu nome próprio, como o Código Civil (Lei 10.406, de 2002).
 
-Estão disponíveis as seguintes  referências nominais:
+Para utilizar referências nominais, digite o nome da norma precedida de  `@`
+
+Estão disponíveis as seguintes referências nominais:
 
 | Referência nominal  |  Exemplo  |
 | ------------------- | ------------------- |
