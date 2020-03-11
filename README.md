@@ -107,7 +107,7 @@ Em qualquer parte do texto digite o número da norma precedida de `@`
 
 Atualmente estão disponíveis as seguintes legislações
 
-| Legislação Federal  |
+| Legislação Federal  | |
 | ------------------- | ------------------- |
 |  [Constituição Federal](http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm) |  [Medidas Provisórias](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/medidas-provisorias) |
 |  [Leis Ordinárias](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/leis-ordinarias) |  [Decretos](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/decretos1) |
