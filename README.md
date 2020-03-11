@@ -103,19 +103,6 @@ Após corrigi-las, digite `ENTER ↵ ` para o **SEI Legis §!** encontrar as nov
 
 Citar legislações federais ficou ainda mais fácil.
 
-Atualmente estão disponíveis as seguintes legislações:
-
-|  Legislação Federal  |
-| ------------------- | 
-|  [Constituição Federal](http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm) |
-|  [Medidas Provisórias](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/medidas-provisorias) |
-|  [Leis Ordinárias](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/leis-ordinarias) |
-|  [Decretos](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/decretos1) 
-|  [Leis Complementares](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/leis-complementares-1) |
-|  [Decretos-Leis](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/decretos-leis) |
-|  [Códigos](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/codigos-1) |
-|  [Estatutos](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/estatutos) |
-
 Em qualquer parte do texto digite o número da norma precedida de `@`
 
 | Referência externa  |  Exemplo  |
@@ -131,6 +118,19 @@ Em qualquer parte do texto digite o número da norma precedida de `@`
 Após corrigi-las, digite `ENTER ↵ ` para o **SEI Legis §!** encontrar as referências externas. 
 
 As citações acompanham o hiperlink para a norma publicada no site do Planalto.
+
+Atualmente estão disponíveis as seguintes legislações:
+
+|  Legislação Federal  |
+| ------------------- | 
+|  [Constituição Federal](http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm) |
+|  [Medidas Provisórias](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/medidas-provisorias) |
+|  [Leis Ordinárias](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/leis-ordinarias) |
+|  [Decretos](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/decretos1) 
+|  [Leis Complementares](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/leis-complementares-1) |
+|  [Decretos-Leis](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/decretos-leis) |
+|  [Códigos](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/codigos-1) |
+|  [Estatutos](http://www4.planalto.gov.br/legislacao/portal-legis/legislacao-1/estatutos) |
 
 ### Referências externas nominais
 
