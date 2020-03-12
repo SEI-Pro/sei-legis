@@ -105,6 +105,8 @@ Citar legislações federais ficou ainda mais fácil.
 
 Em qualquer parte do texto digite o número da norma precedida de `@`
 
+![Tela 6](/img/tela-6.02.gif) 
+
 | Referência externa  |  Exemplo  |
 | ------------------- | ------------------- |
 |  `@CF` |  [Constituição Federal](http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm) |
