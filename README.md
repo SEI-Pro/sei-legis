@@ -105,7 +105,7 @@ Citar legislações federais ficou ainda mais fácil.
 
 Em qualquer parte do texto digite o número da norma precedida de `@`
 
-![Tela 6](/img/tela-6.02.gif) 
+![Tela 7](/img/tela-7.02.gif) 
 
 | Referência externa  |  Exemplo  |
 | ------------------- | ------------------- |
