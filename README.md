@@ -119,7 +119,7 @@ Em qualquer parte do texto digite o número da norma precedida de `@`
 
 As citações acompanham o hiperlink para a norma publicada no site do Planalto.
 
-Atualmente estão disponíveis as seguintes legislações:
+Atualmente estão disponíveis as seguintes legislações: 
 
 |  Legislação Federal  |
 | ------------------- | 
