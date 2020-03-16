@@ -44,10 +44,13 @@ Atualmente são suportadas as seguintes referências dinâmicas:
 |  Títulos |  `TIT.` |  `TÍTULO I`, `TÍTULO II`, `TÍTULO III`, `TÍTULO IV` ... |
 |  Capítulos |  `CAP.` |  `CAPÍTULO I`, `CAPÍTULO II`, `CAPÍTULO III`, `CAPÍTULO IV` ... |
 |  Seções |  `Sec.` |  `Seção I`, `Seção II`, `Seção III`, `Seção IV` ... |
+|  Subseções |  `Sub.` |  `Subseção I`, `Subseção II`, `Subseção III`, `Subseção IV` ... |
 |  Artigos |  `Art.` |  `Art. 1º`, `Art. 2º`, `Art. 3º`, `Art. 4º` ... |
 |  Parágrafos |  `§` |  `Parágrafo único.` ou `§ 1º`, `§ 2º`, `§ 3º` ... |
 |  Incisos |  `Inc.` |  `I -`, `II -`, `III -`, `IV -` ... |
 |  Alíneas |  `Alin.` |  `a)`, `b)`, `c)`, `d)` ... |
+|  Iitens |  `Item.` |  `1.`, `2.`, `3.`, `4.` ... |
+
 
 > Ao utilizar `ANEXO.`, todas as demais referências reiniciarão sua contagem.
 
