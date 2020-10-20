@@ -11,6 +11,17 @@
              "128": "icons/icon-128.png" },
   "permissions": [
   ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "pedrohsoares.adv@gmail_seilegis"
+    }
+  },
+  "applications": {
+    "gecko": {
+      "id": "pedrohsoares.adv@gmail_seilegis",
+      "strict_min_version": "53.0"
+    }
+  },
   "content_scripts": [ {
     "js": [
         "js/lib/jquery-3.4.1.min.js",
