@@ -10,7 +10,11 @@ Adicionou um novo artigo bem no meio do documento? Não se preocupe, fazemos a e
 
 Instale a extensão para o Google Chrome em:
 
-[https://chrome.google.com/webstore/detail/sei-legis/gmepnnlhjedfmkncmocpljoimbmkblgj](https://chrome.google.com/webstore/detail/sei-legis/gmepnnlhjedfmkncmocpljoimbmkblgj)
+> [https://chrome.google.com/webstore/detail/sei-legis/gmepnnlhjedfmkncmocpljoimbmkblgj](https://chrome.google.com/webstore/detail/sei-legis/gmepnnlhjedfmkncmocpljoimbmkblgj)
+
+Ou para o Mozilla Firefox em:
+
+> [https://addons.mozilla.org/pt-BR/firefox/addon/sei-legis/](https://addons.mozilla.org/pt-BR/firefox/addon/sei-legis/)
 
 ## Como utilizar?
 
