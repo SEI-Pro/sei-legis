@@ -6,7 +6,7 @@ function loadScriptLegis() {
         	$(document).ready(function () {
                 $.getScript(chrome.extension.getURL("js/sei-legis.js"));
                 $.getScript(chrome.extension.getURL("js/lib/jmespath.min.js"));
-                console.log('loadScriptLegis');
+                console.log('loadScriptLegis'); 
         	});
 	    },500);
 	}
