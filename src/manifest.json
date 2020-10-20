@@ -1,0 +1,35 @@
+{
+  "manifest_version": 2,
+  "name": "SEI Legis",
+  "short_name": "SEI Legis",
+  "description": "Adiciona ao Sistema Eletrônico de Informações (SEI) a função de enumerar normas conforme regras da Lei Complementar nº 95, de 1998",
+  "version": "0.0.11",
+  "author": "Pedro Henrique Soares",
+  "homepage_url": "https://pedrohsoaresadv.github.io/sei-legis/",
+  "icons": { "16": "icons/icon-16.png",
+             "48": "icons/icon-48.png",
+             "128": "icons/icon-128.png" },
+  "permissions": [
+  ],
+  "content_scripts": [ {
+    "js": [
+        "js/lib/jquery-3.4.1.min.js",
+        "js/lib/jmespath.min.js"
+    ],
+    "matches": ["*://*.br/sei/*", "*://*.br/sip/*"]
+  },
+   {
+    "js": [
+        "js/lib/jquery-3.4.1.min.js",
+        "js/lib/jmespath.min.js",
+        "js/init.js"
+    ],
+	"run_at": "document_end",
+    "matches": ["*://*.br/*controlador.php?acao=editor_montar*"]
+  }],
+  "web_accessible_resources": [
+        "js/sei-legis.js",
+        "js/lib/jquery-3.4.1.min.js",
+        "js/lib/jmespath.min.js"
+  ]
+}
