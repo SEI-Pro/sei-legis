@@ -189,3 +189,7 @@ Estão disponíveis as seguintes referências nominais:
 Caso deseja reportar um erro ou solicitar um recurso, acesse [Issue](https://github.com/pedrohsoaresadv/sei-legis/issues) no [Projeto GitHub](https://github.com/pedrohsoaresadv/sei-legis/) e adicione sua requisição.
 
 Ou envie um e-mail para [pedrohsoares.adv@gmail.com](mailto:pedrohsoares.adv@gmail.com)
+
+## Novidades e dicas
+
+Siga as novidades da extensão e dicas de produtividade em [@phsoares_adv](https://www.instagram.com/phsoares_adv/)
